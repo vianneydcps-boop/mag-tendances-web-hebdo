@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mag Tendances Web Hebdo</title>
+    <link>https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/</link>
+    <description>L&apos;œil expert sur l&apos;innovation et les cultures numériques</description>
+    <language>fr</language>
+    <atom:link href="https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/rss.xml" rel="self" type="application/rss+xml" />
+        <item>
+      <title>SEO 2024 : Les Tendances Clés pour Dominer les Résultats de Recherche</title>
+      <link>https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/posts/1793286538069-seo-2024-les-tendances-cles-pour-dominer-les-resultats-de-re.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/posts/1793286538069-seo-2024-les-tendances-cles-pour-dominer-les-resultats-de-re.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEO pour Débutants : Maîtriser les Fondamentaux pour un Référencement Réussi</title>
+      <link>https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/posts/1792239962503-seo-pour-debutants-maitriser-les-fondamentaux-pour-un-refere.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/posts/1792239962503-seo-pour-debutants-maitriser-les-fondamentaux-pour-un-refere.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Note de test</title>
+      <link>https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/posts/1792076121979-note-de-test.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/mag-tendances-web-hebdo/posts/1792076121979-note-de-test.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:09:01 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
